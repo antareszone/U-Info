@@ -1,0 +1,33 @@
+{
+  "format": "PDF split by byte offsets; .bin files are not independent PDF documents",
+  "title": "Народне господарство України у 1993 році: статистичний щорічник",
+  "publisher": "Міністерство статистики України",
+  "publication": "Київ: Техніка, 1994",
+  "catalog_source": "Economy/data/sources_extra.csv, id=1009",
+  "source_landing_url": "https://istmat.org/node/68214",
+  "distribution_host_inferred_from_folder": "cdn.ruarxive.org/public/saved/istmat/books/68214/1",
+  "distribution_url_independently_verified": false,
+  "rights": "No explicit redistribution license established; historical official statistics is not itself a verified redistribution license for this scan",
+  "parts": [
+    {
+      "file": "part1.bin",
+      "bytes": 59850563,
+      "sha256": "c6fe8de0ca1bac546e6c26858028055b6b52d227e7a4db8b817aeb65b20f765f"
+    },
+    {
+      "file": "part2.bin",
+      "bytes": 59850562,
+      "sha256": "0328b815d809fde6b5d1f67be333ad3484d25732fa2a10c7a87f24aa6d4573cc"
+    }
+  ],
+  "assembly": {
+    "method": "binary concatenation in the exact listed order, no separators or conversion",
+    "file": "yearbook_ukraine_1993.pdf",
+    "bytes": 119701125,
+    "sha256": "b2feceda32205339e2defa29241d052bd8fe8118e8fb84aa9f24979fd9bf352c",
+    "pdf_pages": 494,
+    "validation": "Parsed locally using pypdf; not a verification of OCR accuracy or complete statistical transcription"
+  },
+  "audit_path_in_ukr": "TempFiles/ocr_audit/visual_audit_progress.md",
+  "upstream_publisher_checksum_verified": false
+}
