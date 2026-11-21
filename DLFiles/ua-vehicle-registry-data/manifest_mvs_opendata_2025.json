@@ -1,0 +1,28 @@
+{
+    "format_version":  1,
+    "original_file":  "mvs_opendata_2025.parquet",
+    "original_bytes":  215878674,
+    "sha256":  "ca027c31268451c600117dfc4efdde69f63464284928a5344975ec9cd8504f2c",
+    "part_bytes":  80000000,
+    "part_count":  3,
+    "parts":  [
+                  {
+                      "index":  1,
+                      "file":  "mvs_opendata_2025.parquet.part-00001.bin",
+                      "bytes":  80000000,
+                      "sha256":  "b209d852cac4434cb83f432e4165d93c3703fc28e5f940c70a54f18bb9b6e39c"
+                  },
+                  {
+                      "index":  2,
+                      "file":  "mvs_opendata_2025.parquet.part-00002.bin",
+                      "bytes":  80000000,
+                      "sha256":  "2c5d6a4184fef75a59b4e5448911e77264d19026f7cc6c7c5ce3dce6b90817c4"
+                  },
+                  {
+                      "index":  3,
+                      "file":  "mvs_opendata_2025.parquet.part-00003.bin",
+                      "bytes":  55878674,
+                      "sha256":  "73690ff39589bdad7855a3b667b4c344dc8868db8ba125f2c2313bf3bc8019ae"
+                  }
+              ]
+}
